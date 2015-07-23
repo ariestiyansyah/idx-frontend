@@ -14,6 +14,10 @@
 
 @media(max-width:768px) {
 
+  .nav>li>a {
+    padding: 0;
+  }
+
   div.list-courseware {
     width: 100%;
   }  
